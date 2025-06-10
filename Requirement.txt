@@ -1,0 +1,7 @@
+python=3.11.9
+pandas=2.2.3
+numpy=1.26.4
+tensorflow=2.16.2
+matplotlib=3.10.0
+sklearn=1.6.1
+xgboost=3.0.0
